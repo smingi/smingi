@@ -18,20 +18,20 @@
   <a><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 
-
   <h4> ect <h4/>
   <a><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>
   
-  <h3> 백준 <h3/>
+  <br /><br />
+  <h3> 🏅 Baekjoon solved rank 🏅 <h3/>
     
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shxje13)](https://solved.ac/shxje13/)
     
-<!--   <br/><br/>
+  <br/>
   <h3>👩‍💻 My Github Stats 👩‍💻</h3>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smingi)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
   
 <div/>
 
